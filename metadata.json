@@ -1,0 +1,6 @@
+{
+  "name": "Layer",
+  "description": "A personal day app that helps users turn empty time into useful actions using smart insights, Google Calendar integration, and AI-powered chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_AI"]
+}
